@@ -6,7 +6,9 @@
         {
           "id": 1,
           "name": "Adidas Ultraboost Web DNA",
-          "price": 149,
+          "price": 749,
+          "strikeoff-price" : 2299,
+          "discount" : 67,
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/GY4173_a1?wid=400&hei=400&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/GY4173_a2?wid=400&hei=400&fmt=png-alpha",
@@ -25,7 +27,9 @@
         {
           "id": 2,
           "name": "Adidas Ultraboost Web DNA Running Sportswear Shoes",
-          "price": 199,
+          "price": 599, 
+          "strikeoff-price" : 1499,
+          "discount" : 60,
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/GY0077_a1?wid=500&hei=500&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/GY0077_a2?wid=500&hei=500&fmt=png-alpha",
@@ -44,7 +48,9 @@
         {
           "id": 3,
           "name": "Adidas Unity Leather Mid RAIN.RDY Hiking Boots",
-          "price": 69,
+          "price": 1299,
+           "strikeoff-price" : 1899,
+          "discount" : 32,
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/GZ3969_a1?wid=520&hei=520&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/GZ3969_a2?wid=520&hei=520&fmt=png-alpha",
@@ -63,7 +69,9 @@
         {
           "id": 4,
           "name": "Adidas Ultraboost Web DNA",
-          "price": 139,
+          "price": 1049,
+          "strikeoff-price" : 1399,
+          "discount" : 25, 
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/GY4171_a1?wid=520&hei=520&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/GY4171_a2?wid=520&hei=520&fmt=png-alpha",
@@ -82,7 +90,9 @@
         {
           "id": 5,
           "name": "Nike Air Max 90",
-          "price": 130,
+          "price": 1299,
+          "strikeoff-price" :2299 ,
+          "discount" : 43, 
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/N8490002_a1?wid=520&hei=520&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/N8490003_a2?wid=520&hei=520&fmt=png-alpha",
@@ -101,7 +111,9 @@
         {
           "id": 6,
           "name": "Nike Kyrie Infinity",
-          "price": 89,
+          "price": 899,
+           "strikeoff-price" : 1299,
+          "discount" : 31,
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/Z0204501_a1?wid=520&hei=520&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/Z0204501_a2?wid=520&hei=520&fmt=png-alpha",
@@ -120,7 +132,9 @@
         {
           "id": 7,
           "name": "Nike Woodside II",
-          "price": 125,
+          "price": 1635,
+                    "strikeoff-price" : 999,
+          "discount" : 39, 
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/55393770_a1?wid=520&hei=520&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/55393770_a2?wid=520&hei=520&fmt=png-alpha",
@@ -139,7 +153,9 @@
         {
           "id": 8,
           "name": "Nike Lebron Nexxt Generation",
-          "price": 160,
+          "price": 1649,
+          "strikeoff-price" : 2135,
+          "discount" : 23, 
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/R8784900_a1?wid=520&hei=520&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/R8784900_a2?wid=520&hei=520&fmt=png-alpha",
@@ -158,7 +174,9 @@
         {
           "id": 9,
           "name": "PUMA Slipstream",
-          "price": 59,
+          "price": 1249,
+           "strikeoff-price" : 3199,
+          "discount" : 61,
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/38754401_a1?wid=520&hei=520&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/38754401_a2?wid=520&hei=520&fmt=png-alpha",
@@ -177,7 +195,9 @@
         {
           "id": 10,
           "name": "PUMA MB.02",
-          "price": 130,
+          "price": 638,
+          "strikeoff-price" : 1899,
+          "discount" : 66, 
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/37758601_a1?wid=520&hei=520&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/37758601_a2?wid=520&hei=520&fmt=png-alpha",
@@ -196,7 +216,9 @@
         {
           "id": 11,
           "name": "PUMA Mirage Sport Tonal",
-          "price": 100,
+          "price": 1199,
+                    "strikeoff-price" : 1239,
+          "discount" : 6, 
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/38273907_a1?wid=520&hei=520&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/38273907_a2?wid=520&hei=520&fmt=png-alpha",
@@ -215,7 +237,9 @@
         {
           "id": 12,
           "name": "PUMA MB2 Supernova",
-          "price": 135,
+          "price": 599,
+                    "strikeoff-price" : 539,
+          "discount" : 10, 
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/37644201_a1?wid=520&hei=520&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/37644201_a2?wid=520&hei=520&fmt=png-alpha",
@@ -234,7 +258,9 @@
         {
           "id": 13,
           "name": "Reebok Workout Plus",
-          "price": 85,
+          "price": 499,
+           "strikeoff-price" : 599,
+          "discount" : 17,
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/CN2127_a1?wid=520&hei=520&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/CN2127_a2?wid=520&hei=520&fmt=png-alpha",
@@ -253,7 +279,9 @@
         {
           "id": 14,
           "name": "Reebok Daniel Moon Club C 85",
-          "price": 70,
+          "price": 899,
+           "strikeoff-price" : 1049,
+          "discount" : 14,
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/GZ1097_a1?wid=520&hei=520&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/GZ1097_a2?wid=520&hei=520&fmt=png-alpha",
@@ -272,7 +300,9 @@
         {
           "id": 15,
           "name": "Reebok Nano X2 Grow",
-          "price": 160,
+          "price": 1249,
+                    "strikeoff-price" : 1599,
+          "discount" : 22, 
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/H06290_a1?wid=520&hei=520&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/H06290_a2?wid=520&hei=520&fmt=png-alpha",
@@ -291,7 +321,9 @@
         {
           "id": 16,
           "name": "Reebok Classic Leather Popsicle",
-          "price": 90,
+          "price": 1699,
+           "strikeoff-price" : 2299,
+          "discount" : 26,
           "image": [
             "https://images.footlocker.com/is/image/EBFL2/GY2435_a1?wid=520&hei=520&fmt=png-alpha",
             "https://images.footlocker.com/is/image/EBFL2/GY2435_a2?wid=520&hei=520&fmt=png-alpha",
@@ -315,7 +347,9 @@
         {
           "id": 17,
           "name": "Adidas Ultraboost DNA",
-          "price": 149,
+          "price": 999,
+          "strikeoff-price" : 1249,
+          "discount" : 20, 
           "image": ["https://images.footlocker.com/is/image/EBFL2/GV8744_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/GV8744_a2?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/GV8744_a4?wid=520&hei=520&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Adidas",
@@ -330,7 +364,9 @@
         {
           "id": 18,
           "name": "Adidas Terrex Trailrider Trail Running Shoes",
-          "price": 110,
+          "price": 999,
+          "strikeoff-price" : 1699,
+          "discount" : 41, 
           "image": ["https://images.footlocker.com/is/image/EBFL2/GW5554_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/GW5554_a2?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/GW5554_a4?wid=520&hei=520&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Adidas",
@@ -345,7 +381,9 @@
         {
           "id": 19,
           "name": "Adidas Ultraboost DNA",
-          "price": 190,
+          "price": 875,
+          "strikeoff-price" : 1999,
+          "discount" : 56, 
           "image": ["https://images.footlocker.com/is/image/EBFL2/FZ1851_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/FZ1851_a2?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/FZ1851_a4?wid=520&hei=520&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Adidas",
@@ -360,7 +398,9 @@
         {
           "id": 20,
           "name": "Adidas Swift Run Casual Shoes",
-          "price": 60,
+          "price": 1249,
+           "strikeoff-price" : 1399,
+          "discount" : 11,
           "image": ["https://images.footlocker.com/is/image/EBFL2/GX8387_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/GX8387_a2?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/GX8387_a4?wid=520&hei=520&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Adidas",
@@ -375,7 +415,9 @@
         {
           "id": 21,
           "name": "Nike Air Max 97",
-          "price": 120,
+          "price": 699,
+          "strikeoff-price" : 799,
+          "discount" : 13, 
           "image": ["https://images.footlocker.com/is/image/EBFL2/H0558001_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/H0558001_a2?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/H0558001_a3?wid=520&hei=520&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Nike",
@@ -390,7 +432,9 @@
         {
           "id": 22,
           "name": "Nike Blazer Mid '77",
-          "price": 110,
+          "price": 1099,
+          "strikeoff-price" : 1799,
+          "discount" : 39, 
           "image": ["https://images.footlocker.com/is/image/EBFL2/V2182900_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/V2182900_a2?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/V2182900_a4?wid=520&hei=520&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Nike",
@@ -405,7 +449,9 @@
         {
           "id": 24,
           "name": "Nike Space Hippie 04",
-          "price": 109,
+          "price": 699,
+          "strikeoff-price" : 999,
+          "discount" : 30, 
           "image": ["https://images.footlocker.com/is/image/EBFL2/A2725701_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/A2725701_a2?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/A2725701_a3?wid=520&hei=520&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Nike",
@@ -420,7 +466,9 @@
         {
           "id": 25,
           "name": "Nike Air Presto",
-          "price": 109,
+          "price": 1025,
+          "strikeoff-price" : 1699,
+          "discount" : 40, 
           "image": ["https://images.footlocker.com/is/image/EBFL2/Q8587800_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/Q8587800_a2?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/Q8587800_a4?wid=520&hei=520&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Nike",
@@ -435,7 +483,9 @@
         {
           "id": 26,
           "name": "PUMA Mayze",
-          "price": 55,
+          "price": 999,
+           "strikeoff-price" : 649,
+          "discount" : 35,
           "image": ["https://images.footlocker.com/is/image/EBFL2/38078405_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/38078405_a2?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/38078405_a4?wid=520&hei=520&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Puma",
@@ -450,7 +500,9 @@
         {
           "id": 27,
           "name": "PUMA RS-X",
-          "price": 80,
+          "price": 749,
+           "strikeoff-price" : 999,
+          "discount" : 25,
           "image": ["https://images.footlocker.com/is/image/EBFL2/37198310_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/37198310_a2?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/37198310_a4?wid=520&hei=520&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Puma",
@@ -465,7 +517,9 @@
         {
           "id": 28,
           "name": "PUMA Suede Safari",
-          "price": 55,
+          "price": 1649,
+           "strikeoff-price" : 2199,
+          "discount" : 25,
           "image": ["https://images.footlocker.com/is/image/EBFL2/38399901_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/38399901_a2?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/38399901_a4?wid=520&hei=520&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Puma",
@@ -480,7 +534,9 @@
         {
           "id": 29,
           "name": "PUMA RS-X Mono",
-          "price": 90,
+          "price": 699,
+           "strikeoff-price" : 999,
+          "discount" : 30,
           "image": ["https://images.footlocker.com/is/image/EBFL2/38542801_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/38542801_a2?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/38542801_a4?wid=520&hei=520&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Puma",
@@ -495,7 +551,9 @@
         {
           "id": 30,
           "name": "Reebok Freestyle Hi",
-          "price": 80,
+          "price": 599,
+           "strikeoff-price" : 799,
+          "discount" : 25,
           "image": ["https://images.footlocker.com/is/image/EBFL2/2240W_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/2240W_a3?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/2240W_a2?wid=520&hei=520&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Reebok",
@@ -510,7 +568,9 @@
         {
           "id": 31,
           "name": "Reebok Club C Geo Mid",
-          "price": 95,
+          "price": 849,
+           "strikeoff-price" : 899,
+          "discount" : 6,
           "image": ["https://images.footlocker.com/is/image/EBFL2/GY1377_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/GY1377_a2?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/GY1377_a3?wid=520&hei=520&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Reebok",
@@ -525,7 +585,9 @@
         {
           "id": 32,
           "name": "Reebok Freestyle Hi",
-          "price": 80,
+          "price": 1025,
+           "strikeoff-price" : 1099,
+          "discount" : 7,
           "image": ["https://images.footlocker.com/is/image/EBFL2/GZ2243_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/GZ2243_a2?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/GZ2243_a4?wid=62&hei=62&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Reebok",
@@ -540,7 +602,9 @@
         {
           "id": 33,
           "name": "Reebok Nano X2 TR Adventure",
-          "price": 140,
+          "price": 1199,
+                    "strikeoff-price" : 1299,
+          "discount" : 8, 
           "image": ["https://images.footlocker.com/is/image/EBFL2/HP9077_a1?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/HP9077_a2?wid=520&hei=520&fmt=png-alpha","https://images.footlocker.com/is/image/EBFL2/HP9077_a4?wid=520&hei=520&fmt=png-alpha"],
           "brand": "Womens",
           "productline": "Reebok",
@@ -553,8 +617,15 @@
           }
         }
       ]
+     },
+     {
+      "id": "mensClothing",
+      "items":[]
+     },
+     {
+      "id": "womensClothing",
+      "items" :[]
      }
-  
 
     ],  
   "recommendations" : [
