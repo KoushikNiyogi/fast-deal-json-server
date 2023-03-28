@@ -1,7 +1,8 @@
 {
-  "products" : {
-    "mens" : {
-      "shoes" : [
+  "products" : [
+     {
+      "id" : "menshoes",
+      "items" : [
         {
           "id": 1,
           "name": "Adidas Ultraboost Web DNA",
@@ -306,11 +307,11 @@
             "count": 340
           }
         }
-      ],
-      "clothing" : []
-    },
-    "women" : {
-      "shoes" : [
+      ]
+     },
+     {
+      "id" : "womenshoes",
+      "items" : [
         {
           "id": 17,
           "name": "Adidas Ultraboost DNA",
@@ -551,12 +552,11 @@
             "count": 300
           }
         }
-      ],
-      "clothing" : [
-
       ]
-    }
-  },  
+     }
+  
+
+    ],  
   "recommendations" : [
 
   ],
