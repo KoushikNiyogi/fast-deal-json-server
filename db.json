@@ -1,10 +1,8 @@
 {
   "products" : [
-     {
-      "type" : "menshoes",
-      "items" : [
         {
           "id": 1,
+          "type" : "menshoes",
           "name": "Adidas Ultraboost Web DNA",
           "price": 749,
           "strikeoff-price" : 2299,
@@ -26,6 +24,7 @@
         },
         {
           "id": 2,
+          "type" : "menshoes",
           "name": "Adidas Ultraboost Web DNA Running Sportswear Shoes",
           "price": 599, 
           "strikeoff-price" : 1499,
@@ -47,6 +46,7 @@
         },
         {
           "id": 3,
+          "type" : "menshoes",
           "name": "Adidas Unity Leather Mid RAIN.RDY Hiking Boots",
           "price": 1299,
            "strikeoff-price" : 1899,
@@ -68,6 +68,7 @@
         },
         {
           "id": 4,
+          "type" : "menshoes",
           "name": "Adidas Ultraboost Web DNA",
           "price": 1049,
           "strikeoff-price" : 1399,
@@ -89,6 +90,7 @@
         },
         {
           "id": 5,
+          "type" : "menshoes",
           "name": "Nike Air Max 90",
           "price": 1299,
           "strikeoff-price" :2299 ,
@@ -110,6 +112,7 @@
         },
         {
           "id": 6,
+          "type" : "menshoes",
           "name": "Nike Kyrie Infinity",
           "price": 899,
            "strikeoff-price" : 1299,
@@ -131,6 +134,7 @@
         },
         {
           "id": 7,
+          "type" : "menshoes",
           "name": "Nike Woodside II",
           "price": 1635,
                     "strikeoff-price" : 999,
@@ -152,6 +156,7 @@
         },
         {
           "id": 8,
+          "type" : "menshoes",
           "name": "Nike Lebron Nexxt Generation",
           "price": 1649,
           "strikeoff-price" : 2135,
@@ -173,6 +178,7 @@
         },
         {
           "id": 9,
+          "type" : "menshoes",
           "name": "PUMA Slipstream",
           "price": 1249,
            "strikeoff-price" : 3199,
@@ -194,6 +200,7 @@
         },
         {
           "id": 10,
+          "type" : "menshoes",
           "name": "PUMA MB.02",
           "price": 638,
           "strikeoff-price" : 1899,
@@ -215,6 +222,7 @@
         },
         {
           "id": 11,
+          "type" : "menshoes",
           "name": "PUMA Mirage Sport Tonal",
           "price": 1199,
                     "strikeoff-price" : 1239,
@@ -236,6 +244,7 @@
         },
         {
           "id": 12,
+          "type" : "menshoes",
           "name": "PUMA MB2 Supernova",
           "price": 599,
                     "strikeoff-price" : 539,
@@ -257,6 +266,7 @@
         },
         {
           "id": 13,
+          "type" : "menshoes",
           "name": "Reebok Workout Plus",
           "price": 499,
            "strikeoff-price" : 599,
@@ -278,6 +288,7 @@
         },
         {
           "id": 14,
+          "type" : "menshoes",
           "name": "Reebok Daniel Moon Club C 85",
           "price": 899,
            "strikeoff-price" : 1049,
@@ -299,6 +310,7 @@
         },
         {
           "id": 15,
+          "type" : "menshoes",
           "name": "Reebok Nano X2 Grow",
           "price": 1249,
                     "strikeoff-price" : 1599,
@@ -320,6 +332,7 @@
         },
         {
           "id": 16,
+          "type" : "menshoes",
           "name": "Reebok Classic Leather Popsicle",
           "price": 1699,
            "strikeoff-price" : 2299,
@@ -338,14 +351,10 @@
             "rate": 2.9,
             "count": 340
           }
-        }
-      ]
-     },
-     {
-      "id" : "womenshoes",
-      "items" : [
+        },
         {
           "id": 17,
+          "type" : "womenshoes",
           "name": "Adidas Ultraboost DNA",
           "price": 999,
           "strikeoff-price" : 1249,
@@ -363,6 +372,7 @@
         },
         {
           "id": 18,
+          "type" : "womenshoes",
           "name": "Adidas Terrex Trailrider Trail Running Shoes",
           "price": 999,
           "strikeoff-price" : 1699,
@@ -380,6 +390,7 @@
         },
         {
           "id": 19,
+          "type" : "womenshoes",
           "name": "Adidas Ultraboost DNA",
           "price": 875,
           "strikeoff-price" : 1999,
@@ -397,6 +408,7 @@
         },
         {
           "id": 20,
+          "type" : "womenshoes",
           "name": "Adidas Swift Run Casual Shoes",
           "price": 1249,
            "strikeoff-price" : 1399,
@@ -414,6 +426,7 @@
         },
         {
           "id": 21,
+          "type" : "womenshoes",
           "name": "Nike Air Max 97",
           "price": 699,
           "strikeoff-price" : 799,
@@ -431,6 +444,7 @@
         },
         {
           "id": 22,
+          "type" : "womenshoes",
           "name": "Nike Blazer Mid '77",
           "price": 1099,
           "strikeoff-price" : 1799,
@@ -448,6 +462,7 @@
         },
         {
           "id": 24,
+          "type" : "womenshoes",
           "name": "Nike Space Hippie 04",
           "price": 699,
           "strikeoff-price" : 999,
@@ -465,6 +480,7 @@
         },
         {
           "id": 25,
+          "type" : "womenshoes",
           "name": "Nike Air Presto",
           "price": 1025,
           "strikeoff-price" : 1699,
@@ -482,6 +498,7 @@
         },
         {
           "id": 26,
+          "type" : "womenshoes",
           "name": "PUMA Mayze",
           "price": 999,
            "strikeoff-price" : 649,
@@ -499,6 +516,7 @@
         },
         {
           "id": 27,
+          "type" : "womenshoes",
           "name": "PUMA RS-X",
           "price": 749,
            "strikeoff-price" : 999,
@@ -516,6 +534,7 @@
         },
         {
           "id": 28,
+          "type" : "womenshoes",
           "name": "PUMA Suede Safari",
           "price": 1649,
            "strikeoff-price" : 2199,
@@ -533,6 +552,7 @@
         },
         {
           "id": 29,
+          "type" : "womenshoes",
           "name": "PUMA RS-X Mono",
           "price": 699,
            "strikeoff-price" : 999,
@@ -550,6 +570,7 @@
         },
         {
           "id": 30,
+          "type" : "womenshoes",
           "name": "Reebok Freestyle Hi",
           "price": 599,
            "strikeoff-price" : 799,
@@ -567,6 +588,7 @@
         },
         {
           "id": 31,
+          "type" : "womenshoes",
           "name": "Reebok Club C Geo Mid",
           "price": 849,
            "strikeoff-price" : 899,
@@ -588,6 +610,7 @@
         },
         {
           "id": 32,
+          "type" : "womenshoes",
           "name": "Reebok Freestyle Hi",
           "price": 1025,
            "strikeoff-price" : 1099,
@@ -607,6 +630,7 @@
         },
         {
           "id": 33,
+          "type" : "womenshoes",
           "name": "Reebok Nano X2 TR Adventure",
           "price": 1199,
                     "strikeoff-price" : 1299,
@@ -624,18 +648,7 @@
             "count": 300
           }
         }
-      ]
-     },
-     {
-      "id": "mensClothing",
-      "items":[]
-     },
-     {
-      "id": "womensClothing",
-      "items" :[]
-     }
-
-    ],  
+      ], 
   "recommendations" : [
 
   ],
