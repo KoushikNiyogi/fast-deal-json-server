@@ -1,7 +1,7 @@
 {
   "products" : [
      {
-      "id" : "menshoes",
+      "type" : "menshoes",
       "items" : [
         {
           "id": 1,
