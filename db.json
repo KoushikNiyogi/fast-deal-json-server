@@ -1,8 +1,8 @@
 {
   "products" : [
      {
-      "id" : "menshoes",
-      "items" : [
+      
+      "menshoes" : [
         {
           "id": 1,
           "name": "Adidas Ultraboost Web DNA",
