@@ -652,7 +652,19 @@
   "recommendations" : [
 
   ],
-  "users" : [
-    
-  ]
+  "users" : [{
+    "firstName": "ram",
+    "lasttName": "singh",
+    "number": "5555555555",
+    "email": "ram@gmail.com",
+    "password": "12345",
+    "id": 1
+  },{
+    "firstName": "prabhat",
+    "lasttName": "kumar",
+    "number": "1234567890",
+    "email": "prabhat@gmail.com",
+    "password": "12345",
+    "id": 2
+  } ]
 }
