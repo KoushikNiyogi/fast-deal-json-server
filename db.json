@@ -1552,6 +1552,12 @@
     "email": "prabhat@gmail.com",
     "password": "12345",
     "id": 2
-  } ],
+  },{
+    "firstName": "admin",
+    "lasttName": "admin",
+    "email": "admin@gmail.com",
+    "password": "12345",
+    "id": 3
+  }],
   "cart" : []
 }
