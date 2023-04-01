@@ -1536,7 +1536,157 @@
     }
       ], 
   "recommendations" : [
-
+      {
+    "id": 12,
+    "type": "menshoes",
+    "name": "PUMA MB2 Supernova",
+    "price": 599,
+    "strikeoff-price": 539,
+    "discount": 10,
+    "image": [
+      "https://images.footlocker.com/is/image/EBFL2/37644201_a1?wid=520&hei=520&fmt=png-alpha",
+      "https://images.footlocker.com/is/image/EBFL2/37644201_a2?wid=520&hei=520&fmt=png-alpha",
+      "https://images.footlocker.com/is/image/EBFL2/37644201_a4?wid=520&hei=520&fmt=png-alpha"
+    ],
+    "brand": "Mens",
+    "productline": "Puma",
+    "color": "Orange",
+    "description": "Rethink the basketball trainer with the Rebound Lay-Up. This versatile sneaker features a mesh upper for superior breathability and a SoftFoam+ sockliner to give you a supportive fit. Paired with the iconic PUMA Formstrip, you will  have classic style with all of the innovation of today.",
+    "quantity": 1,
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  },
+  {
+    "id": 11,
+    "type": "menshoes",
+    "name": "PUMA Mirage Sport Tonal",
+    "price": 1199,
+    "strikeoff-price": 1239,
+    "discount": 6,
+    "image": [
+      "https://images.footlocker.com/is/image/EBFL2/38273907_a1?wid=520&hei=520&fmt=png-alpha",
+      "https://images.footlocker.com/is/image/EBFL2/38273907_a2?wid=520&hei=520&fmt=png-alpha",
+      "https://images.footlocker.com/is/image/EBFL2/38273907_a4?wid=520&hei=520&fmt=png-alpha"
+    ],
+    "brand": "Mens",
+    "productline": "Puma",
+    "color": "Brown",
+    "description": "With a foot-hugging mesh upper and a supportive lace-through midfoot caging system, the Pacer Next Cage has a sleek silhouette that is as ready for the gym as it is for the streets. A feather-light midsole provides superior energy return, cushioning and support, while slip-on construction adds a sock-like rather than a shoe-like feel. You wont want to leave home in anything else.",
+    "quantity": 1,
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    }
+  },
+  {
+    "id": 3,
+    "type": "menshoes",
+    "name": "Adidas Unity Leather Mid RAIN.RDY Hiking Boots",
+    "price": 1299,
+    "strikeoff-price": 1899,
+    "discount": 32,
+    "image": [
+      "https://images.footlocker.com/is/image/EBFL2/GZ3969_a4?wid=520&hei=520&fmt=png-alpha",
+      "https://images.footlocker.com/is/image/EBFL2/GZ3969_a2?wid=520&hei=520&fmt=png-alpha",
+      "https://images.footlocker.com/is/image/EBFL2/GZ3969_a3?wid=520&hei=520&fmt=png-alpha"
+    ],
+    "brand": "Mens",
+    "productline": "Adidas",
+    "color": "Brown",
+    "description": "The Jako Slip-On Men's Shoes are perfect for a laceless running style. Lightweight and styled for everyday wear, they feature a breathable and durable mesh upper. Layered cushioning adds comfort that goes the distance.",
+    "quantity": 1,
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
+  },
+  {
+    "id": 5,
+    "type": "menshoes",
+    "name": "Nike Air Max 90",
+    "price": 1299,
+    "strikeoff-price": 2299,
+    "discount": 43,
+    "image": [
+      "https://images.footlocker.com/is/image/EBFL2/N8490002_a1?wid=520&hei=520&fmt=png-alpha",
+      "https://images.footlocker.com/is/image/EBFL2/N8490003_a2?wid=520&hei=520&fmt=png-alpha",
+      "https://images.footlocker.com/is/image/EBFL2/N8490003_a4?wid=62&hei=62&fmt=png-alpha"
+    ],
+    "brand": "Mens",
+    "productline": "Nike",
+    "color": "Black",
+    "description": "There's more to the Electron E Trainers than meets the eye. Its visible technology highlights fantastic features like a breathable mesh upper, synthetic quarter panels for support and a bold aesthetic that's both fun and futuristic. The elastic band on the heel provides extra comfort.",
+    "quantity": 1,
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    }
+  }, {
+    "id": 32,
+    "type": "womenshoes",
+    "name": "Reebok Freestyle Hi",
+    "price": 1025,
+    "strikeoff-price": 1099,
+    "discount": 7,
+    "image": [
+      "https://images.footlocker.com/is/image/EBFL2/GZ2243_a1?wid=520&hei=520&fmt=png-alpha",
+      "https://images.footlocker.com/is/image/EBFL2/GZ2243_a4?wid=520&hei=520&fmt=png-alpha",
+      "https://images.footlocker.com/is/image/EBFL2/GZ2243_a4?wid=62&hei=62&fmt=png-alpha"
+    ],
+    "brand": "Womens",
+    "productline": "Reebok",
+    "color": "Brown",
+    "description": "MJ's sixth signature shoe debuted during the 1990-1991 season as His Airness battled rivals in pursuit of an elusive first championship. Now, it's back in a variety of color schemes. Gear up for the 30th anniversary of the Air Jordan 6 with this timeless classic.",
+    "quantity": 1,
+    "rating": {
+      "rate": 4.9,
+      "count": 230
+    }
+  }, {
+    "id": 33,
+    "type": "womenshoes",
+    "name": "Reebok Nano X2 TR Adventure",
+    "price": 1199,
+    "strikeoff-price": 1299,
+    "discount": 8,
+    "image": [
+      "https://images.footlocker.com/is/image/EBFL2/GV9439_a1?wid=520&hei=520&fmt=png-alpha",
+      "https://images.footlocker.com/is/image/EBFL2/GV9439_a2?wid=520&hei=520&fmt=png-alpha",
+      "https://images.footlocker.com/is/image/EBFL2/GV9439_a3?wid=520&hei=520&fmt=png-alpha"
+    ],
+    "brand": "Womens",
+    "productline": "Reebok",
+    "color": "Orange",
+    "description": "Utilitarian, but make it edgy: these AJ1s give you functional use without compromising that style you know and love. Tough canvas, stash pockets and webbing pulls give these classic kicks a hit of rugged versatility.",
+    "quantity": 1,
+    "rating": {
+      "rate": 4.7,
+      "count": 300
+    }
+  },{
+    "id": 31,
+    "type": "womenshoes",
+    "name": "Reebok Club C Geo Mid",
+    "price": 849,
+    "strikeoff-price": 899,
+    "discount": 6,
+    "image": [
+      "https://images.footlocker.com/is/image/EBFL2/GV6615_a1?wid=520&hei=520&fmt=png-alpha",
+      "https://images.footlocker.com/is/image/EBFL2/GV6615_a2?wid=520&hei=520&fmt=png-alpha",
+      "https://images.footlocker.com/is/image/EBFL2/GV6615_a3?wid=520&hei=520&fmt=png-alpha"
+    ],
+    "brand": "Womens",
+    "productline": "Reebok",
+    "color": "Blue",
+    "description": "MJ's sixth signature shoe debuted during the 1990-1991 season as His Airness battled rivals in pursuit of an elusive first championship. Now, it's back in a variety of color schemes. Gear up for the 30th anniversary of the Air Jordan 6 with this timeless classic.",
+    "quantity": 1,
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    }
+  }
   ],
   "users" : [{
     "firstName": "ram",
