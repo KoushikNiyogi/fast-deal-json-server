@@ -1459,7 +1459,6 @@
             "https://n3.sdlcdn.com/imgs/k/n/p/naqsum-Black-Polyester-Women-s-SDL583926511-3-8b6fa.jpg"
         ],
         "productline": "Alieans",
-        "category": "Trouser",
         "category": "Jacket",
         "color": "Black",
         "size": "36",
@@ -1534,7 +1533,7 @@
             "count": 145
         }
     }
-      ], 
+    ], 
   "recommendations1" : [
       {
     "id": 12,
@@ -1843,7 +1842,7 @@
       "count": 500
     }
   }
-  ]
+  ],
   "users" : [{
     "firstName": "ram",
     "lasttName": "singh",
